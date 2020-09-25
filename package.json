@@ -1,0 +1,19 @@
+{
+  "name": "ratings-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "latest",
+    "google-protobuf": "latest",
+    "grpc": "latest",
+    "jest": "^25.2.7",
+    "keugsapis-grpcjs": "git+ssh://git@gitlab.com/keugs/keugsapis-grpcjs.git#master"
+  }
+}
